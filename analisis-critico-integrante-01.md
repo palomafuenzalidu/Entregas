@@ -1,0 +1,12 @@
+# Análisis crítico Paloma Fuenzalida
+### ¿Por qué es relevante para ti realizar este tema?
+Personalmente me encanta el cine y me gustaría analizar como este arte, que lleva más de cien años impactando al mundo, esta evolucionando y adaptándose a las nuevas exigencias de las audiencias. Me fascina ir al cine y no quiero que cese de existir debido a la baja demanda, por lo que me gustaría comprobar si realmente las películas que van directo a streaming van a ser la nueva normalidad.
+### ¿Qué esperas contar y/o revelar con él? ¿Cuál es el impacto que esperas generar?
+Espero poder contar ordenadamente esta evolución que esta teniendo la distibución de contenidos, comprobando si es que efectivamente o no el streaming va a superar al cine.
+Espero que cuando vean mi historia las personas puedan autoreflexionar respecto al tema; ¿Necesitamos que todo sea inmediato? ¿Vale la pena ir al cine? ¿Vale más la pena pagar una suscripción y ver todos los contenidos del mundo?
+### Elabora al menos 3 ideas que te gustaría realizar para contar la historia
++ Me gustaría poder organizar los datos por premios, categorías y años, así los visitantes de nuestra historia pueden ver claramente que ha ganado que en los últimos cinco años. Tal vés se van a ver tendencias en las categorías, o quiza una plataforma en particular va a dominar la temporada de premios.
++ Tambíen me gustaría mostrar estos datos de manera interactiva y colorida, estilo **The Pudding*, que la historia sea una experiencia y el receptor sea parte de ella. Me gusta el estilo de las webstories que mostraron en clases, "Is the love song dying?" y (creo que esta no la mostraron) "Music Genres".
++ Me gustaría tomar elementos gráficos de las plataformas de streaming y de los premios para así poder relacionar y reconocer bien el tema con lo que está pasando. También podriamos incluir tweets, memes y otros elementos que hagan la página entretenida de leer.
+### ¿Qué te gustaría aprender en este proyecto?
+Me gustaría poder aprender a hacer estas webstories, la verdad es que nunca creí que iba a poder hacer algo de ese estilo y me gustaría poder intentarlo. Creo que ya escribiendo en visual studio code es loquisimo y me gustaría seguir aprendiendo.
